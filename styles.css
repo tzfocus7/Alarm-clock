@@ -53,6 +53,7 @@ body{
     height: 50px;
     width: 100%;
     font-size: 19px;
+    background: #fff;
 }
 .wrapper button{
     width: 100%;
